@@ -3,8 +3,6 @@ Hi! I am Palind.😊
 
 I am an undergraduate student at Tongji University.😉
 
-Due to Tongji's policy, my major has not been diverted yet.
-
 You're warmly welcome to check out my blog! →[🔗My Blog](https://palind-rome.github.io/)
 
 <!--
