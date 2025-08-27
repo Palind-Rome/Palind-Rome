@@ -3,7 +3,7 @@ Hi! I am Palind.😊
 
 I am an undergraduate student at Tongji University.😉
 
-You're warmly welcome to check out my blog! →[🔗My Blog](https://palind-rome.github.io/)
+You're warmly welcome to check out my blog! →[🔗My Blog](https://blog.palind-rome.top/)
 
 <!--
 **Palind-Rome/Palind-Rome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
