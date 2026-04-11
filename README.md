@@ -1,3 +1,5 @@
+<div align="center">
+
 Hi! I am Palind.😊
 
 I am a sophomore at <span style="display:inline-block; vertical-align:35px;"><img src="https://www.tongji.edu.cn/images/badge.png" width="20"></span> Tongji University.😉
@@ -11,6 +13,8 @@ You're warmly welcome to check out my blog! →[🔗My Blog](https://blog.palind
 我是 <span style="display:inline-block; vertical-align:35px;"><img src="https://www.tongji.edu.cn/images/badge.png" width="20"></span> 同济大学的本科生 😉
 
 欢迎访问我的 blog → [🔗My Blog](https://blog.palind-rome.top/)
+
+</div>
 
 <!--
 **Palind-Rome/Palind-Rome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
