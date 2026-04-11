@@ -1,8 +1,8 @@
 <div align="center">
 
-Hi! I am Palind.😊
+Hi! I'm Palind.😊
 
-I am a sophomore at <span style="display:inline-block; vertical-align:35px;"><img src="https://www.tongji.edu.cn/images/badge.png" width="20"></span> Tongji University.😉
+I'm a sophomore at <span style="display:inline-block; vertical-align:35px;"><img src="https://www.tongji.edu.cn/images/badge.png" width="20"></span> Tongji University, studying LLMs and agents.
 
 You're warmly welcome to check out my blog! →[🔗My Blog](https://blog.palind-rome.top/)
 
@@ -10,7 +10,7 @@ You're warmly welcome to check out my blog! →[🔗My Blog](https://blog.palind
 
 你好！我是 Palind 😊
 
-我是 <span style="display:inline-block; vertical-align:35px;"><img src="https://www.tongji.edu.cn/images/badge.png" width="20"></span> 同济大学的本科生 😉
+我是 <span style="display:inline-block; vertical-align:35px;"><img src="https://www.tongji.edu.cn/images/badge.png" width="20"></span> 同济大学的本科生，正在学习 LLM 和 agent。
 
 欢迎访问我的 blog → [🔗My Blog](https://blog.palind-rome.top/)
 
