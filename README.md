@@ -4,7 +4,7 @@ Hi! I'm Palind.😊
 
 I'm a sophomore at <span style="display:inline-block; vertical-align:35px;"><img src="https://www.tongji.edu.cn/images/badge.png" width="20"></span> Tongji University, studying LLMs and agents.
 
-You're warmly welcome to check out my blog! →[🔗My Blog](https://blog.palind-rome.top/)
+[🔗My Blog](https://blog.palind-rome.top/) | [<img src="https://static.zhihu.com/heifetz/favicon.ico" width="18" height="18" alt="Zhihu" /> Zhihu](https://www.zhihu.com/people/palind)
 
 ---
 
@@ -12,7 +12,7 @@ You're warmly welcome to check out my blog! →[🔗My Blog](https://blog.palind
 
 我是 <span style="display:inline-block; vertical-align:35px;"><img src="https://www.tongji.edu.cn/images/badge.png" width="20"></span> 同济大学的本科生，正在学习 LLM 和 agent。
 
-欢迎访问我的 blog → [🔗My Blog](https://blog.palind-rome.top/)
+[🔗我的 Blog](https://blog.palind-rome.top/) | [<img src="https://static.zhihu.com/heifetz/favicon.ico" width="18" height="18" alt="Zhihu" /> 我的知乎](https://www.zhihu.com/people/palind)
 
 </div>
 
