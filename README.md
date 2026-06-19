@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi! I'm Palind.😊
+Hi! I'm Palind. ☺️
 
 I'm a sophomore at <span style="display:inline-block; vertical-align:35px;"><img src="https://www.tongji.edu.cn/images/badge.png" width="20"></span> Tongji University, studying LLMs and agents.
 
@@ -8,7 +8,7 @@ I'm a sophomore at <span style="display:inline-block; vertical-align:35px;"><img
 
 ---
 
-你好！我是 Palind 😊
+你好！我是 Palind ☺️
 
 我是 <span style="display:inline-block; vertical-align:35px;"><img src="https://www.tongji.edu.cn/images/badge.png" width="20"></span> 同济大学的本科生，正在学习 LLM 和 agent。
 
