@@ -2,7 +2,7 @@
 
 Hi! I'm Palind. ☺️
 
-I'm a sophomore at <span style="display:inline-block; vertical-align:35px;"><img src="./image/tongji.png" width="20"></span> Tongji University, studying LLMs and agents.
+I'm a junior at <span style="display:inline-block; vertical-align:35px;"><img src="./image/tongji.png" width="20"></span> Tongji University, studying LLMs and agents.
 
 [🔗My Blog](https://blog.palind-rome.top/) | [<img src="./image/zhihu.ico" width="18" height="18" alt="Zhihu" /> Zhihu](https://www.zhihu.com/people/palind)
 
