@@ -12,7 +12,7 @@ I'm a junior at <span style="display:inline-block; vertical-align:35px;"><img sr
 
 我是 <span style="display:inline-block; vertical-align:35px;"><img src="./image/tongji.png" width="20"></span> 同济大学的本科生（预计于 2028 年毕业），正在学习 LLM 和 agent。
 
-[🔗我的 Blog](https://blog.palind-rome.top/) | [<img src="./image/zhihu.ico" width="18" height="18" alt="Zhihu" /> 我的知乎](https://www.zhihu.com/people/palind) | [🤗抱抱脸](https://huggingface.co/Palind)
+[🔗我的 Blog](https://blog.palind-rome.top/) | [<img src="./image/zhihu.ico" width="18" height="18" alt="Zhihu" /> 我的知乎](https://www.zhihu.com/people/palind) | [🤗我的抱抱脸](https://huggingface.co/Palind)
 
 </div>
 
